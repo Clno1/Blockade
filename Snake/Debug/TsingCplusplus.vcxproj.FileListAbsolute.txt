@@ -1,0 +1,2 @@
+D:\Myprogram\Cplusplus\Snake\Snake\Debug\Snake.exe
+D:\Myprogram\Cplusplus\Snake\Snake\Debug\Snake.pdb
